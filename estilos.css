@@ -1,0 +1,29 @@
+body{
+	background-color: darksalmon;
+}
+
+
+.colortitulo{
+	color:rgb(5, 7, 7);
+	font-size: 60px;
+	background: #91587f;
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+	letter-spacing: 20px;
+}
+
+.estilos{
+	
+    border-spacing: 30px;
+	background: rgb(51, 14, 36);
+    text-align: center;
+}
+
+.clase{
+	font-size: 30px;
+}
+
+.colores{
+    color: #DEB7D9;
+}
